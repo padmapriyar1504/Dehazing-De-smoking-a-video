@@ -1,1 +1,1 @@
-# Dehazing-De-smoking-a-video
+# Dehazing/De-smoking-a-video
